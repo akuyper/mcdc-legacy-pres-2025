@@ -49,7 +49,7 @@ Take these data projects and package them into open lesson plans for instructors
 
 2.  Design lessons that attempt the data projects again. 
 
-3.  Create a data repository where instructors and freely access the data and use in examples or their own lessons. Also, submit to existing data repositories. 
+3.  Create a data repository where instructors can freely access the data and use them in examples or their own lessons. Also, submit to existing data repositories. 
 
 . . .
 
@@ -82,3 +82,11 @@ Results & data from the Equiticity Project
 - Geospatial Visualization with GeoPandas and Folium
 
 - Enriching Divvy Data with External Datasets for Socio-Spatial Analysis
+
+## Distribution Plan
+
+Complete a basic/self-contained release by end of Fall 2025
+
+Post/announce on ASA teaching forums and/or CAUSE
+
+Submit to teaching journals 
