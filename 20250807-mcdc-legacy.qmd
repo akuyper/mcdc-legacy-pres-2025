@@ -5,13 +5,13 @@ subtitle: "Supporting Instruction with Real Data Problems"
 format: 
   revealjs:
     theme: [default, custom.scss]
-    logo: "image/StatisticsDataScience-LogoShort-HorizPurple.png"
+    logo: "image/MCDC_Logo_10.png"
     preview-links: auto
     slide-number: c/t
     transition: fade
     background-transition: fade
     embed-resources: true
-    
+          
 title-slide-attributes:
     data-background-image: https://www.northwestern.edu/brand/images/zoom-academic-facets.jpg
     # change from cover to contian for printing pdf
@@ -31,28 +31,54 @@ editor:
     wrap: 72
 ---
 
-## Big Picture/Overview
+## Big Picture
 
-Where does model evaluation and selection come up during an introductory
-machine learning course?
-
-. . .
-
-1.  Early on, maybe first day --- How do we know if a model is any good?
-
-2.  During model building/training --- How to pick the "best" model?
-
-3.  Discussion of final model --- How will the final model preform?
+Through MCDC practicums and DAUs (Data Application for Undergraduates) students and faculty have worked on a wide range of data rich projects for various community partners.
 
 . . .
 
-## Basic structure
+::: {.callout-tip icon=FALSE}
+## Goal
 
-Who is working on it, where is data coming from, where it will be located
+Take these data projects and package them into open lesson plans for instructors to use at various points in a data science course or curriculum.
+:::
 
+. . .
 
-## Examples
+1.  Re-package the data collection, wrangling, and visualization steps from a project into lessons. Providing a beginning students with a sense of how to breakdown and tackle data projects.
 
+2.  Design lessons that attempt the data projects again. 
 
-## How do we know if a model is any good?
+3.  Create a data repository where instructors and freely access the data and use in examples or their own lessons. Also, submit to existing data repositories. 
 
+. . .
+
+## The Basics
+
+Instructional Materials are being developed and organized by Professors Lizhen Shi and Arend M Kuyper
+
+GitHub Organization `MDCD-Instructional-Materials` will host the developed materials which will all have their own GitHub repositories with all supporting documentation
+
+Plan to license under CC BY-SA 4.0 --- Creative Commons Attribution-ShareAlike 4.0 International CC BY-SA 4.0
+
+## Data Projects
+
+[MCDC Data Projects](https://sites.northwestern.edu/mcdc/projects/)
+
+Some of the data is publicly avialable.
+
+Obtaining permission from a few of the projects.
+
+We plan to make use of as many projects as possible!
+
+## Example Lessons
+
+[Lessons for Data Science Pathway Courses](https://sites.northwestern.edu/mcdc/for-faculty/lessons-for-data-science-pathway-courses/) --- Developed by Professor Shi
+
+Results & data from the Equiticity Project
+
+- Feature Engineering and Time Series Aggregation with Divvy Data
+
+- Geospatial Visualization with GeoPandas and Folium
+
+- Enriching Divvy Data with External Datasets for Socio-Spatial Analysis

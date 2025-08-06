@@ -12,8 +12,14 @@ $body-bg: #F5F5F5;
 
 // Primary/body text
 $mainFont: 'Jost', sans-serif;
-$mainFontSize: 30px;
+$mainFontSize: 28px;
 $mainColor: #333;
+
+div {
+  &.callout {
+    font-size: 2.0rem !important;
+  }
+}
 
 // Vertical spacing between blocks of text
 $blockMargin: 20px;
@@ -79,4 +85,8 @@ $heading4Size: 1.00em;
 
 .date {
   color: #EEECE6;
+}
+
+.slide-logo {
+   max-height: 4em !important;
 }
