@@ -1,0 +1,58 @@
+---
+title: "MCDC Legacy"
+subtitle: "Supporting Instruction with Real Data Problems"
+
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    logo: "image/StatisticsDataScience-LogoShort-HorizPurple.png"
+    preview-links: auto
+    slide-number: c/t
+    transition: fade
+    background-transition: fade
+    embed-resources: true
+    
+title-slide-attributes:
+    data-background-image: https://www.northwestern.edu/brand/images/zoom-academic-facets.jpg
+    # change from cover to contian for printing pdf
+    data-background-size: contain
+    data-heading-color: "#FFFFFF"
+    
+# revealjs-plugins:
+#   - revealjs-text-resizer
+    
+from: markdown+emoji
+
+execute:
+  echo: false
+
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Big Picture/Overview
+
+Where does model evaluation and selection come up during an introductory
+machine learning course?
+
+. . .
+
+1.  Early on, maybe first day --- How do we know if a model is any good?
+
+2.  During model building/training --- How to pick the "best" model?
+
+3.  Discussion of final model --- How will the final model preform?
+
+. . .
+
+## Basic structure
+
+Who is working on it, where is data coming from, where it will be located
+
+
+## Examples
+
+
+## How do we know if a model is any good?
+
